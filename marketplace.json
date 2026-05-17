@@ -1,0 +1,38 @@
+{
+  "name": "lector-activo",
+  "version": "1.0.0",
+  "description": "Compañero de lectura activa y aprendizaje profundo. Convierte libros de no ficción en acción concreta mediante 6 modos: Explorar, Leer, Sintetizar, Conectar, Activar y Exportar.",
+  "author": "alasso",
+  "homepage": "https://github.com/alasso/lector-activo-skill",
+  "license": "MIT",
+  "language": "es",
+  "tags": [
+    "reading",
+    "learning",
+    "knowledge-management",
+    "non-fiction",
+    "synthesis",
+    "education",
+    "active-reading",
+    "book-notes",
+    "notebooklm",
+    "anki",
+    "zettelkasten"
+  ],
+  "categories": [
+    "Education",
+    "Productivity",
+    "Knowledge Management"
+  ],
+  "compatibility": {
+    "claude-code": ">=1.0.0",
+    "codex-cli": ">=1.0.0"
+  },
+  "skills": [
+    {
+      "name": "lector-activo",
+      "path": "SKILL.md",
+      "description": "Sistema completo de lectura activa con 6 modos operativos"
+    }
+  ]
+}
