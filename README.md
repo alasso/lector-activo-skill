@@ -12,7 +12,7 @@ Este skill cambia eso: en lugar de resumir pasivamente, activa un sistema de
 6 modos que llevan cada libro desde la primera exploración hasta la aplicación
 concreta en proyectos reales.
 
-**El objetivo no es acumular información. Es activar ideas.**
+**El objetivo, ademas de lectura, es activar ideas.**
 
 Diseñado para libros de no ficción, tecnología/IA y filosofía/pensamiento sistémico.
 
